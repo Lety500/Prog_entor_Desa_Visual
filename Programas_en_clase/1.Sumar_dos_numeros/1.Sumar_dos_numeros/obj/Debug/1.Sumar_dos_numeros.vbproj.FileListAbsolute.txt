@@ -1,0 +1,10 @@
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\1.Sumar_dos_numeros\1.Sumar_dos_numeros\bin\Debug\1.Sumar_dos_numeros.exe.config
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\1.Sumar_dos_numeros\1.Sumar_dos_numeros\obj\Debug\_1.Sumar_dos_numeros.Form1.resources
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\1.Sumar_dos_numeros\1.Sumar_dos_numeros\obj\Debug\_1.Sumar_dos_numeros.Resources.resources
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\1.Sumar_dos_numeros\1.Sumar_dos_numeros\obj\Debug\1.Sumar_dos_numeros.vbproj.GenerateResource.Cache
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\1.Sumar_dos_numeros\1.Sumar_dos_numeros\obj\Debug\1.Sumar_dos_numeros.xml
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\1.Sumar_dos_numeros\1.Sumar_dos_numeros\bin\Debug\1.Sumar_dos_numeros.exe
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\1.Sumar_dos_numeros\1.Sumar_dos_numeros\bin\Debug\1.Sumar_dos_numeros.pdb
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\1.Sumar_dos_numeros\1.Sumar_dos_numeros\bin\Debug\1.Sumar_dos_numeros.xml
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\1.Sumar_dos_numeros\1.Sumar_dos_numeros\obj\Debug\1.Sumar_dos_numeros.exe
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\1.Sumar_dos_numeros\1.Sumar_dos_numeros\obj\Debug\1.Sumar_dos_numeros.pdb

@@ -1,0 +1,11 @@
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\3_Factura\3_Factura\bin\Debug\3_Factura.exe.config
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\3_Factura\3_Factura\bin\Debug\3_Factura.exe
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\3_Factura\3_Factura\bin\Debug\3_Factura.pdb
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\3_Factura\3_Factura\bin\Debug\3_Factura.xml
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\3_Factura\3_Factura\obj\Debug\3_Factura.vbprojResolveAssemblyReference.cache
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\3_Factura\3_Factura\obj\Debug\_3_Factura.Form1.resources
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\3_Factura\3_Factura\obj\Debug\_3_Factura.Resources.resources
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\3_Factura\3_Factura\obj\Debug\3_Factura.vbproj.GenerateResource.Cache
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\3_Factura\3_Factura\obj\Debug\3_Factura.exe
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\3_Factura\3_Factura\obj\Debug\3_Factura.xml
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\3_Factura\3_Factura\obj\Debug\3_Factura.pdb

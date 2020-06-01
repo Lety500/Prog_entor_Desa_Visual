@@ -1,0 +1,10 @@
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\4_Ciclo_for_Investigacion\4_Ciclo_for_Investigacion\bin\Debug\4_Ciclo_for_Investigacion.exe.config
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\4_Ciclo_for_Investigacion\4_Ciclo_for_Investigacion\obj\Debug\_4_Ciclo_for_Investigacion.Form1.resources
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\4_Ciclo_for_Investigacion\4_Ciclo_for_Investigacion\obj\Debug\_4_Ciclo_for_Investigacion.Resources.resources
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\4_Ciclo_for_Investigacion\4_Ciclo_for_Investigacion\obj\Debug\4_Ciclo_for_Investigacion.vbproj.GenerateResource.Cache
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\4_Ciclo_for_Investigacion\4_Ciclo_for_Investigacion\obj\Debug\4_Ciclo_for_Investigacion.xml
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\4_Ciclo_for_Investigacion\4_Ciclo_for_Investigacion\bin\Debug\4_Ciclo_for_Investigacion.exe
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\4_Ciclo_for_Investigacion\4_Ciclo_for_Investigacion\bin\Debug\4_Ciclo_for_Investigacion.pdb
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\4_Ciclo_for_Investigacion\4_Ciclo_for_Investigacion\bin\Debug\4_Ciclo_for_Investigacion.xml
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\4_Ciclo_for_Investigacion\4_Ciclo_for_Investigacion\obj\Debug\4_Ciclo_for_Investigacion.exe
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\4_Ciclo_for_Investigacion\4_Ciclo_for_Investigacion\obj\Debug\4_Ciclo_for_Investigacion.pdb

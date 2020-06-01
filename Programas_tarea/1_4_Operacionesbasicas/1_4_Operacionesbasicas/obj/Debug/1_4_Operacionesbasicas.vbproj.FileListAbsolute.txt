@@ -1,0 +1,11 @@
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\1_4_Operacionesbasicas\1_4_Operacionesbasicas\bin\Debug\1_4_Operacionesbasicas.exe.config
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\1_4_Operacionesbasicas\1_4_Operacionesbasicas\bin\Debug\1_4_Operacionesbasicas.exe
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\1_4_Operacionesbasicas\1_4_Operacionesbasicas\bin\Debug\1_4_Operacionesbasicas.pdb
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\1_4_Operacionesbasicas\1_4_Operacionesbasicas\bin\Debug\1_4_Operacionesbasicas.xml
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\1_4_Operacionesbasicas\1_4_Operacionesbasicas\obj\Debug\1_4_Operacionesbasicas.vbprojResolveAssemblyReference.cache
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\1_4_Operacionesbasicas\1_4_Operacionesbasicas\obj\Debug\_1_4_Operacionesbasicas.Form1.resources
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\1_4_Operacionesbasicas\1_4_Operacionesbasicas\obj\Debug\_1_4_Operacionesbasicas.Resources.resources
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\1_4_Operacionesbasicas\1_4_Operacionesbasicas\obj\Debug\1_4_Operacionesbasicas.vbproj.GenerateResource.Cache
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\1_4_Operacionesbasicas\1_4_Operacionesbasicas\obj\Debug\1_4_Operacionesbasicas.exe
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\1_4_Operacionesbasicas\1_4_Operacionesbasicas\obj\Debug\1_4_Operacionesbasicas.xml
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\1_4_Operacionesbasicas\1_4_Operacionesbasicas\obj\Debug\1_4_Operacionesbasicas.pdb
