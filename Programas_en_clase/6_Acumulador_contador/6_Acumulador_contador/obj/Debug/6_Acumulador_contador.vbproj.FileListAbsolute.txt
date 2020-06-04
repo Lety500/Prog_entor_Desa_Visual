@@ -1,0 +1,11 @@
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\6_Acumulador_contador\6_Acumulador_contador\bin\Debug\6_Acumulador_contador.exe.config
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\6_Acumulador_contador\6_Acumulador_contador\obj\Debug\6_Acumulador_contador.vbprojResolveAssemblyReference.cache
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\6_Acumulador_contador\6_Acumulador_contador\obj\Debug\_6_Acumulador_contador.Form1.resources
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\6_Acumulador_contador\6_Acumulador_contador\obj\Debug\_6_Acumulador_contador.Resources.resources
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\6_Acumulador_contador\6_Acumulador_contador\obj\Debug\6_Acumulador_contador.vbproj.GenerateResource.Cache
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\6_Acumulador_contador\6_Acumulador_contador\obj\Debug\6_Acumulador_contador.xml
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\6_Acumulador_contador\6_Acumulador_contador\bin\Debug\6_Acumulador_contador.exe
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\6_Acumulador_contador\6_Acumulador_contador\bin\Debug\6_Acumulador_contador.pdb
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\6_Acumulador_contador\6_Acumulador_contador\bin\Debug\6_Acumulador_contador.xml
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\6_Acumulador_contador\6_Acumulador_contador\obj\Debug\6_Acumulador_contador.exe
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\6_Acumulador_contador\6_Acumulador_contador\obj\Debug\6_Acumulador_contador.pdb

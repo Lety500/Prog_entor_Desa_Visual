@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+sistema_matricula
+</name>
+</assembly>
+<members>
+<member name="T:sistema_matricula.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:sistema_matricula.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:sistema_matricula.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:sistema_matricula.My.Resources.Resources._33334051_diseño_elegante_diseño_de_fondo_color_beige_blanco_con_textura_de_pergamino_de_la_vendimia_el_pie_de_página_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:sistema_matricula.My.Resources.Resources.depositphotos_24960671_stock_photo_dark_blue_background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:sistema_matricula.My.Resources.Resources.depositphotos_24960671_stock_photo_dark_blue_background1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,13 @@
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\sistema_matricula\sistema_matricula\bin\Debug\sistema_matricula.exe.config
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\sistema_matricula\sistema_matricula\obj\Debug\sistema_matricula.vbprojResolveAssemblyReference.cache
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\sistema_matricula\sistema_matricula\obj\Debug\sistema_matricula.Form1.resources
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\sistema_matricula\sistema_matricula\obj\Debug\sistema_matricula.Form2.resources
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\sistema_matricula\sistema_matricula\obj\Debug\sistema_matricula.Resources.resources
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\sistema_matricula\sistema_matricula\obj\Debug\sistema_matricula.vbproj.GenerateResource.Cache
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\sistema_matricula\sistema_matricula\bin\Debug\sistema_matricula.exe
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\sistema_matricula\sistema_matricula\bin\Debug\sistema_matricula.pdb
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\sistema_matricula\sistema_matricula\bin\Debug\sistema_matricula.xml
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\sistema_matricula\sistema_matricula\obj\Debug\sistema_matricula.exe
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\sistema_matricula\sistema_matricula\obj\Debug\sistema_matricula.xml
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\sistema_matricula\sistema_matricula\obj\Debug\sistema_matricula.pdb
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\sistema_matricula\sistema_matricula\obj\Debug\sistema_matricula.Alumno.resources

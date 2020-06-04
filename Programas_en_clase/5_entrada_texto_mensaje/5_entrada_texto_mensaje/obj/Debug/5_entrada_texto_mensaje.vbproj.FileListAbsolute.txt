@@ -1,0 +1,11 @@
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\5_entrada_texto_mensaje\5_entrada_texto_mensaje\bin\Debug\5_entrada_texto_mensaje.exe.config
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\5_entrada_texto_mensaje\5_entrada_texto_mensaje\obj\Debug\5_entrada_texto_mensaje.vbprojResolveAssemblyReference.cache
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\5_entrada_texto_mensaje\5_entrada_texto_mensaje\obj\Debug\_5_entrada_texto_mensaje.Form1.resources
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\5_entrada_texto_mensaje\5_entrada_texto_mensaje\obj\Debug\_5_entrada_texto_mensaje.Resources.resources
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\5_entrada_texto_mensaje\5_entrada_texto_mensaje\obj\Debug\5_entrada_texto_mensaje.vbproj.GenerateResource.Cache
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\5_entrada_texto_mensaje\5_entrada_texto_mensaje\obj\Debug\5_entrada_texto_mensaje.xml
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\5_entrada_texto_mensaje\5_entrada_texto_mensaje\bin\Debug\5_entrada_texto_mensaje.exe
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\5_entrada_texto_mensaje\5_entrada_texto_mensaje\bin\Debug\5_entrada_texto_mensaje.pdb
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\5_entrada_texto_mensaje\5_entrada_texto_mensaje\bin\Debug\5_entrada_texto_mensaje.xml
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\5_entrada_texto_mensaje\5_entrada_texto_mensaje\obj\Debug\5_entrada_texto_mensaje.exe
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\5_entrada_texto_mensaje\5_entrada_texto_mensaje\obj\Debug\5_entrada_texto_mensaje.pdb
