@@ -1,0 +1,11 @@
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\7_cadena\7_cadena\bin\Debug\7_cadena.exe.config
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\7_cadena\7_cadena\bin\Debug\7_cadena.exe
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\7_cadena\7_cadena\bin\Debug\7_cadena.pdb
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\7_cadena\7_cadena\bin\Debug\7_cadena.xml
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\7_cadena\7_cadena\obj\Debug\7_cadena.vbprojResolveAssemblyReference.cache
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\7_cadena\7_cadena\obj\Debug\_7_cadena.Form1.resources
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\7_cadena\7_cadena\obj\Debug\_7_cadena.Resources.resources
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\7_cadena\7_cadena\obj\Debug\7_cadena.vbproj.GenerateResource.Cache
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\7_cadena\7_cadena\obj\Debug\7_cadena.exe
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\7_cadena\7_cadena\obj\Debug\7_cadena.xml
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\7_cadena\7_cadena\obj\Debug\7_cadena.pdb

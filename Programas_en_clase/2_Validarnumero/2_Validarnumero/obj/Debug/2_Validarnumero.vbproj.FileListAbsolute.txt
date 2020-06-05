@@ -1,0 +1,11 @@
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\2_Validarnumero\2_Validarnumero\bin\Debug\2_Validarnumero.exe.config
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\2_Validarnumero\2_Validarnumero\bin\Debug\2_Validarnumero.exe
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\2_Validarnumero\2_Validarnumero\bin\Debug\2_Validarnumero.pdb
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\2_Validarnumero\2_Validarnumero\bin\Debug\2_Validarnumero.xml
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\2_Validarnumero\2_Validarnumero\obj\Debug\2_Validarnumero.vbprojResolveAssemblyReference.cache
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\2_Validarnumero\2_Validarnumero\obj\Debug\_2_Validarnumero.Form1.resources
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\2_Validarnumero\2_Validarnumero\obj\Debug\_2_Validarnumero.Resources.resources
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\2_Validarnumero\2_Validarnumero\obj\Debug\2_Validarnumero.vbproj.GenerateResource.Cache
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\2_Validarnumero\2_Validarnumero\obj\Debug\2_Validarnumero.exe
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\2_Validarnumero\2_Validarnumero\obj\Debug\2_Validarnumero.xml
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_en_clase\2_Validarnumero\2_Validarnumero\obj\Debug\2_Validarnumero.pdb
