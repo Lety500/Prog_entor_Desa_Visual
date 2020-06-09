@@ -1,0 +1,15 @@
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\1_Guiapp\1_Guiapp\bin\Debug\1_Guiapp.exe.config
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\1_Guiapp\1_Guiapp\bin\Debug\1_Guiapp.exe
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\1_Guiapp\1_Guiapp\bin\Debug\1_Guiapp.pdb
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\1_Guiapp\1_Guiapp\bin\Debug\1_Guiapp.xml
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\1_Guiapp\1_Guiapp\obj\Debug\1_Guiapp.vbprojResolveAssemblyReference.cache
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\1_Guiapp\1_Guiapp\obj\Debug\_1_Guiapp.Form1.resources
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\1_Guiapp\1_Guiapp\obj\Debug\_1_Guiapp.Form2.resources
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\1_Guiapp\1_Guiapp\obj\Debug\_1_Guiapp.Resources.resources
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\1_Guiapp\1_Guiapp\obj\Debug\1_Guiapp.vbproj.GenerateResource.Cache
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\1_Guiapp\1_Guiapp\obj\Debug\1_Guiapp.exe
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\1_Guiapp\1_Guiapp\obj\Debug\1_Guiapp.xml
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\1_Guiapp\1_Guiapp\obj\Debug\1_Guiapp.pdb
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\1_Guiapp\1_Guiapp\obj\Debug\_1_Guiapp.Form3.resources
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\1_Guiapp\1_Guiapp\obj\Debug\_1_Guiapp.Form4.resources
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Programas_tarea\1_Guiapp\1_Guiapp\obj\Debug\_1_Guiapp.Form5.resources
